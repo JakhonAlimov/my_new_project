@@ -1,0 +1,3 @@
+i type vim filename.txt
+Then, i type: I to start writing into the file
+To go out pres ESC and them:wq
